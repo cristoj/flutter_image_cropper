@@ -40,7 +40,5 @@ android {
     dependencies {
         implementation("com.github.jens-muenker:uCrop-n-Edit:4.1.0")
     }
-    configurations.implementation {
-        exclude(group = "com.github.yalantis", module = "ucrop")
-    }
+   
 }
