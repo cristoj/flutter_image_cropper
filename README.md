@@ -15,7 +15,7 @@ A Flutter plugin for Android, iOS and Web supports cropping images. This plugin 
 This project aims to provide an ultimate and flexible image cropping experience. Made in [Yalantis](https://yalantis.com/?utm_source=github)
 
 <p align="center">
-  <img src="https://github.com/hnvn/flutter_image_cropper/blob/master/image_cropper/screenshots/cropper_android.gif?raw=true" width="200"  />
+	<img src="https://github.com/hnvn/flutter_image_cropper/blob/master/image_cropper/screenshots/cropper_android.gif?raw=true" width="200"  />
 </p>
 
 ### TOCropViewController - Tim Oliver
